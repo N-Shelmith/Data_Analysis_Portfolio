@@ -62,7 +62,7 @@ What sets me apart is blending **statistical reasoning** with **business context
 
 
 ## Contact  
-- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/kamau-wanjiru)   
+- LinkedIn: (www.linkedin.com/in/kamau-wanjiru)   
 
 
 *Open to data analyst opportunities where I can apply technical skills and economic insight to solve meaningful problems.*  
