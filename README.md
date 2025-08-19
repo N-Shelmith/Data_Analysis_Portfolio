@@ -43,7 +43,7 @@ What sets me apart is blending **statistical reasoning** with **business context
 
 ## 📂 Featured Projects  
 
-### [Mobile Money Trends in Kenya (CBK Data)]()  
+### [Mobile Money Trends in Kenya (CBK Data)](https://github.com/N-Shelmith/Mobile_Payments_Analysis.git)  
 - Analyzed **mobile payments growth, seasonality and transaction efficiency** using CBK official statistics (2007–2024).  
 - Built an interactive **Excel dashboard** with KPIs, pivot tables, slicers and charts.  
 - Key insights:  
